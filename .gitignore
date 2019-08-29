@@ -1,3 +1,4 @@
+# Ignore default RStudio files
 .Rproj.user
 .Rhistory
 .RData
